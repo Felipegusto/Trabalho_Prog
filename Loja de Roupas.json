@@ -1,0 +1,48 @@
+{
+    "Loja de Roupas": [
+    {
+        "Camisa": {
+            "cor_camisa" : "amarela",
+            "tamanho_camisa" : "GG",
+            "marca_camisa" : "adidas"
+                },
+        "Calca": {
+            "cor_calca" : "azul",
+            "tamanho_calca" : "MM",
+            "marca_calca" : "Knoten",
+            "preco_calca" : "R$89,99" 
+                 },
+            
+        "Bermuda": {
+            "cor_bermuda" : "verde",
+            "tamanho_bermuda" : "P",
+            "marca_bermuda" : "BlackStar",
+            "preco_bermuda" : "R$49,99"
+                   },
+                
+        "meia" : {
+            "cor_meia" : "vermelha",
+            "tipo_meia" : "Basebol",
+            "preco_meia" : "R$5,00" 
+                },           
+        
+        "sapato" : {
+            "nome_sapato" : "Tênis Wave Prophecy 8 Masculino",
+            "cor_sapato" : "preto",
+            "marca_sapato" : "mizuno",
+            "tamanho_sapato" : "38",
+            "preco_sapato" : "R$799,99"
+                },
+                
+        "CLiente": {
+            "nome_cliente" : "Rafael",
+            "telefone_cliente" : "12 93456-7890",
+            "cpf_cleinte" : "084.428.909-47",
+            "conta_cliente" : "Não"
+        },
+        "Funcionario" : {
+            "nome_funcionário" : "Felipe",
+            "telefone_funcionario" : "47 99165-5700",
+            "codigo_funcionario" : "548642",
+            "comissao_funcionario" : "Não"
+        }      
